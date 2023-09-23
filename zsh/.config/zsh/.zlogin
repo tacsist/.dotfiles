@@ -1,0 +1,1 @@
+/home/tacsist/.config/zsh/.zprezto/runcoms/zlogin
